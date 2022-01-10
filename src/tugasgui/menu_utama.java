@@ -8,7 +8,7 @@ import java.sql.*;
 import javax.swing.JOptionPane;
 /**
  *
- * @author bungaaaph
+ * @author Asus
  */
 public class menu_utama extends javax.swing.JFrame {
 
