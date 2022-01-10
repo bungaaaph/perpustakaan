@@ -7,7 +7,7 @@ package tugasgui;
 
 /**
  *
- * @author bungaaaph
+ * @author Asus
  */
 public class TugasGUI {
 
@@ -16,6 +16,7 @@ public class TugasGUI {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello Ghifari");
+        System.out.println("User 2");
     }
-    
 }
